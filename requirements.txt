@@ -1,0 +1,11 @@
+SpeechRecognition
+requests
+gtts
+simpleaudio
+beautifulsoup4
+pyjokes
+wikipedia
+pyautogui
+shazamio
+netifaces
+youtube-search
